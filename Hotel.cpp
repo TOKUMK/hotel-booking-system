@@ -4,7 +4,7 @@ using namespace std;
 class Hotel {
 
 private:
-	Char [] hotelName;
+	Char [20] hotelName;
 	double 	hotelTelephoneNum;
 	int 	hotelCapacity;
 	int		hotelStarRating;
