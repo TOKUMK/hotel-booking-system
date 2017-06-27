@@ -1,7 +1,9 @@
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 
-public main(){
+int main(){
 
 
 	cout << "#--------------------------------------------#";
@@ -19,5 +21,7 @@ public main(){
 
 
 	cout << "#--------------------------------------------#";
+
+	return 0;
 
 }
